@@ -1,5 +1,5 @@
-// pool/config.go
-package pool
+// fs_esl/config.go
+package fs_esl
 
 import (
 	"context"

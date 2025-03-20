@@ -1,5 +1,5 @@
-// pool/connection.go
-package pool
+// fs_esl/connection.go
+package fs_esl
 
 import (
 	"bufio"
